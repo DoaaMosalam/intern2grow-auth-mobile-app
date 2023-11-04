@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">auth-mobile-app</string>
+    <string name="log_in_to_your_account">Log in to your account</string>
+    <string name="remember_me">Remember me</string>
+    <string name="user_name">User Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? Register.</string>
 </resources>

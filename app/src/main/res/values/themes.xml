@@ -6,4 +6,9 @@
     </style>
 
     <style name="Theme.Authmobileapp" parent="Base.Theme.Authmobileapp" />
+    ShapeAppearanceOverlay.App.ImageView.Circle
+    <style name="corner_image">
+       <item name="cornerSize">20dp</item>
+    </style>
+
 </resources>
